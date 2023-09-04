@@ -2,11 +2,7 @@
 require_once __DIR__.'/classes/products.php';
 require_once __DIR__.'/classes/data.php';
 require_once __DIR__.'/classes/user.php';
-
-
-
-
-
+require_once __DIR__.'/classes/payment.php';
 ?>
 
 <!DOCTYPE html>

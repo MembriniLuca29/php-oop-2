@@ -2,7 +2,7 @@
 class User {
     private $isGuest;
     private $username;
-    private $discount; // Aggiungi l'attributo per lo sconto
+    private $discount; 
 
     public function __construct($isGuest, $username = null, $discount = 0) {
         $this->isGuest = $isGuest;
